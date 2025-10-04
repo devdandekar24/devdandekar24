@@ -95,8 +95,3 @@ I have experience building ML models and full-stack web applications, along with
   </a>
 </p>
 
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devdandekar24&label=Visitors&color=green&style=flat-square" />
-
-</div>
