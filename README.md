@@ -90,7 +90,7 @@ I have experience building ML models, AI agents and full-stack python web applic
   <a href="https://leetcode.com/u/dev_dandekar/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" style="margin: 0 15px;"/>
   </a>
-  <a href="mailto:devdandekar365@gmail.com" target="_blank">
+  <a href="mailto:devdandekar7@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" style="margin: 0 15px;"/>
   </a>
 </p>
