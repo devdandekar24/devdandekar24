@@ -1,7 +1,7 @@
 <div align="center">
   <img src="github-banner-gif.gif" alt="GitHub Banner"/>
   <h1>Hi, I'm Dev Dandekar 👋</h1>
-  <h3>Machine Learning Enthusiast | Computer Engineering Student</h3>
+  <h3>AL and ML Enthusiast | Computer Engineering Student | Django Developer </h3>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=%231E90FF&size=25&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Data+Science+Enthusiast;Machine+Learning+Enthusiast;Python+Developer)](https://git.io/typing-svg)
 </div>
@@ -9,10 +9,10 @@
 
 
 ## About Me
-I am a B.E. Computer Engineering student at PICT with strong interests in Machine Learning and Python-based web development using Django.  
-I have experience building ML models and full-stack web applications, along with leadership experience as the Photography Head at Pictoreal.  
+I am a B.E. Computer Engineering student at PICT with strong interests in Machine Learning, Artificial Intelligence, and Python-based web development using Django.  
+I have experience building ML models, AI agents and full-stack python web applications, along with leadership experience as the Photography Head at Pictoreal.  
 
-- 🌱 Currently deepening my expertise in Machine Learning and Data Science  
+- 🌱 Currently deepening my expertise in Machine Learning, Artificial Intelligence and Data Science  
 - 💡 Open to collaborating on large-scale web and data-driven applications  
 - 🎯 Passionate about solving real-world problems with ML and software engineering  
 
@@ -23,7 +23,7 @@ I have experience building ML models and full-stack web applications, along with
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/> -->
 </p>
 
 ### Frontend Development
